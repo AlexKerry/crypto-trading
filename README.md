@@ -34,18 +34,33 @@ Navigate to the project directory:
 ```markdown
 
 
-cd virtual-cryptotrading-react-app
+cd crypto-trading-master
 ```
-Install dependencies:
+Install node-v16.20.2-x64:
 ```markdown
 
-
-npm install
+1. Welcome to the Node.js Setup Wizard
+    Select Next
+2. End-User License Agreement (EULA)
+    Check "I accept the terms in the License Agreement"
+    Select Next
+3. Destination Folder
+    Select Next
+4. Custom Setup
+    Select Next
+5. Ready to install Node.js
+    Select Install
+    Note: This step requires Administrator privlidges.
+        If prompted, authenticate as an Administrator
+6. Installing Node.js
+    Let the installer run to completion
+7. Completed the Node.js Setup Wizard
+    Click Finish
 ```
-Start the development server:
+Start this platform:
 ```markdown
 
-npm start
+Click AppRun.bat
 ```
 Open your browser and visit http://localhost:3000 to access the app.
 
